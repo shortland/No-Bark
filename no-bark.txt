@@ -1,8 +1,8 @@
 # No Bark
 # A Sonic Pi Composition
 
-min_freq = 1800
-max_freq = 2000
+min_freq = 18000
+max_freq = 20000
 min_sleep = 0
 max_sleep = 5
 min_duration = 1
